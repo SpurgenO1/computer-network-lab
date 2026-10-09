@@ -19,5 +19,3 @@ Lab record for the Computer Networks course — Experiments 1 to 15.
 | 13 | Network Forensics using PcapXray | [EX 13.pdf](EX%2013.pdf) |
 | 14 | Packet Sniffing using Raw Sockets | [EX 14.pdf](EX%2014.pdf) |
 | 15 | Analysing Web Server Logs using Webalizer | [EX 15.pdf](EX%2015.pdf) |
-
-Notes sourced from [viji-1008/computer-network](https://github.com/viji-1008/computer-network).
